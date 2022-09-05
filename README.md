@@ -1,24 +1,10 @@
-# test
+## Use case
 
-## Project setup
-```
-npm install
-```
+A list of employees need to be printed in a hierarchy if they are present within the parent object
+which has been received from an API endpoint
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# Endpoint
 
-### Compiles and minifies for production
-```
-npm run build
-```
+URL: "https://run.mocky.io/v3/86016330-8749-48d5-82f8-a9d08acddb50"
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+In case, the url is not present, use the people.json in ~/src/data folder
