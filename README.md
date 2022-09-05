@@ -1,4 +1,4 @@
-## Use case
+# Use case
 
 A list of employees need to be printed in a hierarchy if they are present within the parent object
 which has been received from an API endpoint
